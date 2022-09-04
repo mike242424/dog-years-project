@@ -16,10 +16,10 @@ console.log(earlyYears);
 console.log(laterYears);
 
 // My age in dog years
-myAgeInDogYears = earlyYears + laterYears;
+const myAgeInDogYears = earlyYears + laterYears;
 
 // Lowercase string method
-myName = "Michael".toLowerCase();
+const myName = "Michael".toLowerCase();
 
 // String interpolation using myName, myAge, and myAgeInDogYears
 console.log(
